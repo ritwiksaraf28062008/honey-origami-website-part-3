@@ -1,0 +1,15 @@
+.origami{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex-direction: row ;
+    align-self: flex-end;
+    align-content: space-between;
+    background-color : #000000
+    
+} 
+.written{
+
+    background-color :#63f237
+
+}
